@@ -10,4 +10,5 @@ const SearchBox = ({className, placeholder, onChangeHandler}) => {
     />
 );}
 
+
 export default SearchBox;
